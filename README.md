@@ -72,14 +72,13 @@ Power BI Data Visualization
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sayan2713&theme=tokyonight&hide_border=true&show_icons=true" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=Sayan2713&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sohiniroy224-gif&theme=tokyonight&hide_border=true&show_icons=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=sohiniroy224-gif&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayandeepBera&theme=tokyonight&hide_border=true&layout=compact" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohiniroy224-gif&theme=tokyonight&hide_border=true&layout=compact" width="40%" />
 </p>
-
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
