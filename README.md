@@ -36,7 +36,7 @@ Using data analytics, machine learning, and interactive visualizations, AirIQ tr
 
 **Tech Stack:** React.js • Tailwind CSS • Node.js • Express • MongoDB  • JWT • SendGrid
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-TripCalculator-4ea94b?style=for-the-badge)](https://github.com/sohiniroy224-gif)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-AirIQ-4ea94b?style=for-the-badge)](https://github.com/sohiniroy224-gif)
 
 # Key Features
 
