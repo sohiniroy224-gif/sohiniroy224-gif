@@ -36,7 +36,7 @@ Using data analytics, machine learning, and interactive visualizations, AirIQ tr
 
 **Tech Stack:** React.js • Tailwind CSS • Node.js • Express • MongoDB  • JWT • SendGrid
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-TripCalculator-4ea94b?style=for-the-badge)](https://tripcalculator.in)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-TripCalculator-4ea94b?style=for-the-badge)](https://github.com/sohiniroy224-gif)
 
 # Key Features
 
@@ -77,6 +77,8 @@ Using data analytics, machine learning, and interactive visualizations, AirIQ tr
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohiniroy224-gif&theme=tokyonight&hide_border=true&layout=compact" width="40%" />
 </p>
+
+
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
