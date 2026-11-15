@@ -38,25 +38,23 @@ Using data analytics, machine learning, and interactive visualizations, AirIQ tr
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-TripCalculator-4ea94b?style=for-the-badge)](https://tripcalculator.in)
 
-## Key Features
+# Key Features
 
-Real-time Air Quality Monitoring
-
-Predictive Air Quality Analytics
-
-Interactive Maps and City Rankings
-
-Historical Pollution Data Analysis
-
-City-wise Air Quality Comparison
-
-Public Health Recommendations
-
-AI-powered Assistant
-
-User Authentication and Saved Cities
-
-Power BI Data Visualization
+- 🌫️ Real-time air quality monitoring and pollution tracking
+- 🤖 Predictive air quality analytics using machine learning
+- 🗺️ Interactive maps with location-based AQI and city rankings
+- 📊 Historical pollution data analysis and visualization
+- ⚖️ City-wise air quality comparison
+- 🏥 Personalized public health recommendations based on AQI levels
+- 💬 AI-powered assistant for air quality insights and queries
+- 🔐 Secure user authentication and session management
+- 📍 Save and manage favourite cities for quick access
+- 📈 Power BI integration for advanced data visualization
+- 🐍 Python-powered data processing and predictive analytics
+- ☁️ MongoDB-powered data storage and management
+- ⚡ Modern and responsive React-based user interface
+- 📱 Mobile, tablet, and desktop-friendly dashboard
+- 🌍 Promote environmental awareness through data-driven insights
 ---
 
 
